@@ -30,7 +30,7 @@ O sistema irá verificar se ele tem ou não a ```permissão``` de acessar o ```b
 | y  |  Coordenada Y  |
 | z  |  Coordenada Z  |
 | h  |  Coordenada H - Usada para informar o posicionamento do blip  |
-| perm  |  Permissão para acessar o blip  |
+| perm  |  Nome da permissão para acessar o blip  |
 
 ## Adicione os grupos que tem no seu servidor.
 
