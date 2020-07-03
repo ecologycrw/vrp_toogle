@@ -9,7 +9,7 @@ Esse sistema foi desenvolvido em cima do framework vRPEX.
 - Faça o download e descompacte o ```vrp_toogle``` em seu computador;
 - Abra o seu recources/ ou em alguma pasta que você queira;
 - Copia o ```vrp_toogle``` para o diretorio da pasta desejada.
-- Localize o ```server.cfg``` do seu servidor e adicione o start vrp_toogle, para que o mesmo seja iniciado com o seu servidor.
+- Localize o ```server.cfg``` do seu servidor e adicione o ```start vrp_toogle```, para que o mesmo seja iniciado com o seu servidor.
 
 # Como funciona?
 
