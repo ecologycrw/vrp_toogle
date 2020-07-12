@@ -47,14 +47,14 @@ O sistema irá verificar se ele tem ou não a ```permissão``` de acessar o ```b
 ## Adicione os uniformes para cada grupo.
 
 ###### [CFG/UNIFORMES.LUA]
-> Vá até o uniformes.lua localize a variavel ```cfg.uniformes``` onde [""], deverá ser colocado o nome do seu uniforme. Exemplo: ["Policia"]
+> Vá até o uniformes.lua localize a variavel ```cfg.uniformes``` onde [""], deverá ser colocado o nome do seu uniforme. Exemplo: ["Policia"].
 
 |         Variável       |         Descrição        |
 |---|---|
-| 1885233650  |  Uniforme Masculino daquela profissão  |
-| -1667301416  |  Uniforme Feminino daquela profissão  |
+| 1885233650  |  Uniforme Masculino daquela profissão.  |
+| -1667301416  |  Uniforme Feminino daquela profissão.  |
 
-- A numeração das roupas, normalmente você encontra no script do ```/vroupas```
+- A numeração das roupas, normalmente você encontra no script do ```/vroupas```.
 
 ## Observações
 
