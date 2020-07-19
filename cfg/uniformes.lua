@@ -1,5 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
--- UNIFORMES DOS TRABALHADORES. DIGITE O NOME DO UNIFORME EM "" exemplo se o seu grupo é BOPE, digite ["BOPE"]
+-------------------------------------------------------------- UNIFORMES DOS TRABALHADORES. --------------------------------------------------------
+-- DIGITE O NOME DO UNIFORME EM "" exemplo se o seu grupo é BOPE, digite ["BOPE"]
 -- FIQUE ATENTO SE OS GRUPOS TEM LETRAS MAIUSCULAS OU MINUSCULAS E COLOQUE CORRETAMENTE.
 -- Sempre que for criar um grupo de Paisana, coloque > Paisana, com o p maiusculo. Exemplo > PaisanaBOPE
 -- A numeração das roupas, normalmente você encontra no script do /vroupas
